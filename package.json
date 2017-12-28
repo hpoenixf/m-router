@@ -1,0 +1,23 @@
+{
+  "name": "m-router",
+  "version": "1.0.0",
+  "description": "a tiny SPA router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hpoenixf/m-router.git"
+  },
+  "keywords": [
+    "SPA",
+    "router"
+  ],
+  "author": "hpoenixf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hpoenixf/m-router/issues"
+  },
+  "homepage": "https://github.com/hpoenixf/m-router#readme"
+}
