@@ -1,9 +1,6 @@
 #### m-router
 
 [![npm](https://img.shields.io/npm/dt/m-router.svg)]()
-[![GitHub issues](https://img.shields.io/github/issues/hpoenixf/m-router.svg)](https://github.com/hpoenixf/koa2-proxies/issues)
-[![GitHub license](https://img.shields.io/github/license/hpoenixf/m-router.svg)](https://github.com/hpoenixf/koa2-proxies/blob/master/LICENSE)
-
 
 #### example
 
